@@ -1,7 +1,5 @@
-<!-- TITLE: Transcription Spec -->
-<!-- SUBTITLE: A quick summary of Transcription Spec -->
-
-# Transcription
+<!-- TITLE: Transcription Specification -->
+<!-- SUBTITLE: standards for transcription and transliteration -->
 
 Transcription should generally aim to reproduce the page as written, with the following concessions:
 
@@ -9,7 +7,7 @@ Consistent orthographic mergers (such as व and ब) may be noted in the docume
 Spaces should be placed where possible between words (but not compounds).
 Lines ending in the middle of a word should affix a hyphen (-) at the end and optionally a hyphen at the beginning of the next line.
 
-Transliteration scheme
+# Transliteration scheme
 
 Transcription should follow the IAST transliteration scheme with several extensions for vowels and punctuation as noted below.
 
