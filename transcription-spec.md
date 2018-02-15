@@ -5,9 +5,9 @@
 
 Transcription should generally aim to reproduce the page as written, with the following concessions:
 
-    Consistent orthographic mergers (such as व and ब) may be noted in the document header (see below) and transcribed as the individually-intended characters for ease of reading.
-    Spaces should be placed where possible between words (but not compounds).
-    Lines ending in the middle of a word should affix a hyphen (-) at the end and optionally a hyphen at the beginning of the next line.
+Consistent orthographic mergers (such as व and ब) may be noted in the document header (see below) and transcribed as the individually-intended characters for ease of reading.
+Spaces should be placed where possible between words (but not compounds).
+Lines ending in the middle of a word should affix a hyphen (-) at the end and optionally a hyphen at the beginning of the next line.
 
 Transliteration scheme
 
