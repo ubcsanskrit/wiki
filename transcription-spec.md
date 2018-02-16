@@ -1,4 +1,5 @@
-# Transcription Specification
+<!-- TITLE: Transcription Specification -->
+<!-- SUBTITLE: Standards for transcription and transliteration -->
 
 ## Basic Document Example
 
