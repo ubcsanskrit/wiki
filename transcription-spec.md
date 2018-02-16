@@ -1,6 +1,8 @@
 <!-- TITLE: Transcription Specification -->
 <!-- SUBTITLE: standards for transcription and transliteration -->
 
+# Transcription Specification
+
 ## Basic Document Example
 
 ``` ```
