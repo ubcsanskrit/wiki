@@ -18,3 +18,9 @@ Transcription should follow the IAST transliteration scheme with several extensi
 *  double daṇḍa: ॥
 *  line-ending mark: \ or ¦
 *  notable virāma/hiatus
+
+| a  | b | c | d |   |
+|---|---|---|---|---|
+|   |   |   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
