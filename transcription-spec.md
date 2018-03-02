@@ -12,7 +12,7 @@
 Transcription should generally aim to reproduce the page *as written*, with the following concessions:
 
 * Consistent orthographic mergers (such as व and ब) may be noted in the document header *(see below)* and transcribed as the individually-intended characters for ease of reading.
-* Spaces should be placed where possible between words (but not compounds).
+* Spaces should be placed where possible between words (but not within compounds).
 * Lines ending in the middle of a word should affix a hyphen (`-`) at the end and optionally a hyphen at the beginning of the next line.
 
 
@@ -20,17 +20,17 @@ Transcription should generally aim to reproduce the page *as written*, with the 
 
 Transcription should follow the [IAST](https://en.wikipedia.org/wiki/International_Alphabet_of_Sanskrit_Transliteration) transliteration scheme with several extensions for vowels and punctuation as noted below.
 
-| Letter | Transliteration | Example |
+| Letter | Transliteration | Notes |
 | -- | -- | -- |
 | *vowels* | *(see IAST)*|
 | *consonants* | *(see IAST)*|
-| अ before इ or उ | `ä` or `a_` |
-| ॰ *(abbreviation)* | `.` |
+| अइ and अउ | `aï`, 'aü' or `a_i`, 'a_u' |
+| ॰ *(abbreviation mark)* | `.` |
 | • *(dot/period)* | `.` |
 | । *(danda)* | `|` |
 | ॥ *(double danda)* | `||` |
-| line-ending mark | `\` or `¦` |
-| notable virāma/hiatus | `_` |
+| line-ending mark | `\` or `¦` | The Vetālapañcaviṃśati project currently uses a backslash, whereas other projects use the broken bar. For example, see the [Cambridge Sanskrit Manuscripts Project](http://sanskrit.lib.cam.ac.uk/materials/conventions) or Steinkellner 2017,  *Dharmakīrti's Hetubindu*, xxvi. |
+| notable virāma/hiatus | `_` | Steinkellner 2017 uses a superscript dot for this. |
 
 
 ## TEI Manuscript Header
