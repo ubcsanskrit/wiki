@@ -24,14 +24,35 @@ Transcription should follow the [IAST](https://en.wikipedia.org/wiki/Internation
 | -- | -- | -- |
 | *vowels* | *(see IAST)*|
 | *consonants* | *(see IAST)*|
-| अइ and अउ | `aï`, 'aü' or `a_i`, 'a_u' |
+| अइ and अउ  *(adjacent vowels)* | `aï`, `aü` or `a_i`, `a_u` |
 | ॰ *(abbreviation mark)* | `.` |
 | • *(dot/period)* | `.` |
 | । *(danda)* | `|` |
 | ॥ *(double danda)* | `||` |
 | line-ending mark | `\` or `¦` | The Vetālapañcaviṃśati project currently uses a backslash, whereas other projects use the broken bar. For example, see the [Cambridge Sanskrit Manuscripts Project](http://sanskrit.lib.cam.ac.uk/materials/conventions) or Steinkellner 2017,  *Dharmakīrti's Hetubindu*, xxvi. |
 | notable virāma/hiatus | `_` | Steinkellner 2017 uses a superscript dot for this. |
+| puṣpikā | `❈`| From the Cambridge Sanskrit Manuscripts Project. |
+| śirorekha | `¯` | |
+#### Devanāgarī
 
+| Glyph | Discussion |
+| - | - |
+| pṛṣṭhamātrā | The Vetālapañcaviṃśati project does not currently transcribe this. If desired, pṛṣṭhamātrā vowels can be notated with the acute accent, i.e., `ké`, `kaí`, `kó`. |
+| Oṃkāra signs | In Devanāgarī, these comprise the regular oṃ sign and the Jaina oṃ sign. These are not currently notated. |
+
+#### Malayālam
+
+| Glyph | Discussion |
+| - | - |
+| dot reph | In Malayālam manuscripts, the reph is often indicated with a dot above the proceeding consonant. This is not currently notated. |
+| short and long `e` and `o` vowels | These are not curently notated. |
+
+#### Telugu
+
+| Glyph | Discussion |
+| - | - |
+| valapalagilaka | In Telugu manuscripts, the reph is often indicated with a valapalagilaka sign to the right on the right side of the consonant that it precedes. This is not currently notated. |
+| short and long `e` and `o` vowels | These are not currently notated. |
 
 ## TEI Manuscript Header
 
